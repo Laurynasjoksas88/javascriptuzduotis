@@ -101,6 +101,21 @@
 
 //   skaiciuojaFigurosPlota(inputas)
   
+// astunta uzduotis
+// function primaTrisParametrus() {
+//     let prob = prompt('Iveskite skaiciu:')
+//     let prize = prompt('Iveskite skaiciu:')
+//     let pay = prompt('Iveskite skaiciu:')
+// if (prob * prize > pay) {
+//     console.log(true)
+// } else {
+//     console.log(false)
+// }
+// }
+// primaTrisParametrus()
+
+// devina uzduotis
+
 
 
 
